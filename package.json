@@ -4,16 +4,15 @@
     "description": "A simple logo generator for web developers",
     "main": "index.js",
     "scripts": {
-      "test": "jest",
-      "start": "node index.js"
+        "test": "jest",
+        "start": "node index.js"
     },
     "author": "Your Name",
     "license": "MIT",
-    "dependencies": {
-      "inquirer": "latest"
-    },
     "devDependencies": {
-      "jest": "latest"
+        "jest": "latest"
+    },
+    "dependencies": {
+        "inquirer": "^7.3.3"
     }
-  }
-  
+}
